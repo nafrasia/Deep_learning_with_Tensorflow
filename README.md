@@ -6,6 +6,7 @@ The exercises and projects for TensorFlow for Deep Learning Bootcamp by ZTM Acad
 4. Transfer Learning
 5. Recurrent Neural Networks
 6. Natural Language Processing
+7. Time Series Analysis
 
 # Setup
 You need a python environment with jupyter notebook/lab installed. The GPU version of tensorflow is required to run the notebooks efficiently. However, a CPU version should work as well. One could use Google Colab to run the notebooks.
